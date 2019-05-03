@@ -1,0 +1,18 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.log
+/.metadata
+/Servers
+
+# Maven generated files
+
+**/target
+**/build
+**/.gradle
+/MANIFEST.MF
+/out/
+
+# Compiled files
+*.class
